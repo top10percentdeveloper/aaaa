@@ -3,5 +3,5 @@ void main()
 {
 	printf("1. \n");
 	printf("hotfix\n");
-	printf("master. \n");
+	printf("master. qq\n");
 }
